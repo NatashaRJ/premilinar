@@ -1,0 +1,7 @@
+{
+  "name": "premilinar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
